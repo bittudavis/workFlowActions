@@ -2,7 +2,7 @@ name: first_workflow
 on: workflow_dispatch
 jobs: 
   firstWorkflow:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps: 
       - name: PrintSomething
         run: echo "Print something"
