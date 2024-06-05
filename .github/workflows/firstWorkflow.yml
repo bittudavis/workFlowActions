@@ -1,7 +1,7 @@
 name: first_workflow
 on: workplace_dispatch
 jobs: 
-  firstWorkflow
+  firstWorkflow:
   runs-on: 
   steps: 
     - name: PrintSomething
