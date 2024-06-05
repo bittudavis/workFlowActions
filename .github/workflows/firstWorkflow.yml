@@ -1,5 +1,5 @@
 name: first_workflow
-on: workplace_dispatch
+on: workflow_dispatch
 jobs: 
   firstWorkflow:
   runs-on: 
